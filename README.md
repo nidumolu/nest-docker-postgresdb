@@ -30,3 +30,14 @@ docker-compose run --rm app npm install <package name> e.g TypeORM or DrizzleORM
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can connect to pgAdmin by visiting http://localhost:5050 in our web browser
+
+docker-compose run --rm app npm install <package name> e.g TypeORM or DrizzleORM
+`![Screenshot 2024-01-05 124038](https://github.com/nidumolu/nest-docker-postgresdb/assets/13748087/10140fa2-3689-4861-93e3-67aad5c0c70f)
+
+![Screenshot 2024-01-05 124118](https://github.com/nidumolu/nest-docker-postgresdb/assets/13748087/5d9f1c90-ac85-4bdf-a1ed-8b6d9318ac06)
+
+``
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can connect to pgAdmin by visiting http://localhost:5050 in our web browser
